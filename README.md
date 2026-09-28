@@ -11,7 +11,6 @@
   <!-- ЗАМЕНИТЬ: ссылка на Telegram, блок удалить если профиля нет -->
   <a href="https://t.me/YOUR_NICK"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/sawelu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Location-Юрга-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" alt="Юрга">
 </p>
 
 ---
