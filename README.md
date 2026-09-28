@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:sawelu.91@mail.ru"><img src="https://img.shields.io/badge/Email-sawelu.91@mail.ru-6D5DF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- ЗАМЕНИТЬ: ссылка на Telegram, блок удалить если профиля нет -->
-  <a href="https://t.me/YOUR_NICK"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/Saweluin"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/sawelu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
